@@ -29,6 +29,8 @@ namespace progforprime
             {
                 Console.WriteLine("This is not prime no");
             }
+            Addition obj = new Addition();
+            obj.add();
             Console.ReadLine();
         }
     }
